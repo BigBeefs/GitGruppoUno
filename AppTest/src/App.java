@@ -4,6 +4,6 @@ public class App {
         System.out.println(10 + 23);
         System.out.println("Modifica di Michele 3");
         System.out.println("Manzo scusami tanto non sei una merda :( :( :( !!!");
-        System.out.println("REBASE MERDA!");
+        System.out.println("REBASE MERDACCIA!");
     }
 }
