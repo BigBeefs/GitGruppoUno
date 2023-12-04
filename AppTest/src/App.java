@@ -4,7 +4,7 @@ public class App {
         System.out.println(10 + 23);
         System.out.println("Modifiche di Michele");
         System.out.println("Modifiche di Michele 2");
-        System.out.println("Manzo merda!!!");
-
+        System.out.println("Manzo scusami tanto non sei una merda :( :( :( !!!");
+       
     }
 }
